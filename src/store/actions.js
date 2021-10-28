@@ -1,4 +1,4 @@
-import * as actions from  './actionTypes';
+import * as actions from './actionTypes';
 
 export const addTask = task => ({
 	type: actions.TASK_ADD,
